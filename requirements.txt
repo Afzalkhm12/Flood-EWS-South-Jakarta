@@ -1,0 +1,13 @@
+streamlit
+tensorflow
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+optuna
+plotly
+matplotlib
+seaborn
+joblib
+requests
+earthengine-api
